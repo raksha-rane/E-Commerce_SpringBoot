@@ -1,6 +1,6 @@
-#E-Commerce Application
+# E-Commerce Application
 
-##Project Scenario 2:
+## Project Scenario 2:
 
 You are building an e-commerce system that tracks
 orders, products, and customer details. The system needs
@@ -10,7 +10,7 @@ to the database, and they are also considering adopting
 Spring Data JPA for easier data management in the
 future.
 
-##Project Questions with Answers:
+## Project Questions with Answers:
 
 Certainly! Here’s a detailed explanation of how Hibernate maps Java objects to database tables, handles schema evolution, the differences between Hibernate and Spring Data JPA, and how to migrate to Spring Data JPA in the future.
 
