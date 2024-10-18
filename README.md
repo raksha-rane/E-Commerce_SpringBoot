@@ -12,8 +12,6 @@ future.
 
 ## Project Questions with Answers:
 
-Certainly! Here’s a detailed explanation of how Hibernate maps Java objects to database tables, handles schema evolution, the differences between Hibernate and Spring Data JPA, and how to migrate to Spring Data JPA in the future.
-
 ### 1. Hibernate's Automatic Mapping of Java Objects to Database Tables
 
 Hibernate is an Object-Relational Mapping (ORM) framework that facilitates the mapping of Java objects to database tables, enabling developers to work with database records as if they were Java objects. Here’s how it works:
